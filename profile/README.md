@@ -30,7 +30,6 @@ At **Boksepyunsal**, we believe that technology should be a bridge, not a barrie
 
 We are always looking for collaborators who share our vision of a more equitable and transparent world. Join us in our journey to make the world a fairer place, one commit at a time.
 
-* **Notion**: [Boksepyunsal Workspace](https://iamjaeholee.notion.site/d8ca4050de0a42a7a3706c9e2832a4c6)
 * **Email**: [boksepyunsal24@gmail.com](mailto:boksepyunsal24@gmail.com)
 * **GitHub**: [@Boksepyunsal](https://www.google.com/search?q=https://github.com/Boksepyunsal)
 
