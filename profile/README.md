@@ -13,16 +13,6 @@ At **Boksepyunsal**, we believe that technology should be a bridge, not a barrie
 
 ### 🚀 Our Projects
 
-#### 🤝 [Sumjima (숨지마)](https://github.com/Boksepyunsal/sumjima) — Zero-Fee Service Matching Platform
-> *"Don't hide behind unfair fees. Your skills deserve better."*
-
-An open-source service matching platform with **zero listing fees and zero commission**. Whether it's IT freelancing, home cleaning, tutoring, or professional consulting — every talent gets a fair shot.
-**🔗 Live at [sumjima.fun](https://sumjima.fun/)**
-
-`Next.js` `Supabase` `Tailwind CSS` `shadcn/ui` `Vercel`
-
----
-
 #### 📋 [Text Util Extension](https://github.com/Boksepyunsal/text-util-extension) — Chrome Text Snippet Manager
 A Chrome extension to save, organize, and sync your frequently used text snippets across all devices via your Google account. One-click copy, real-time search, and a clean modern UI — say goodbye to repetitive typing.
 
